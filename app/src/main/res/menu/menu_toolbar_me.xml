@@ -1,0 +1,11 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/toolbar_me_logout"
+        android:title="Log Out"
+        ></item>
+
+    <item android:id="@+id/toolbar_me_add_new_vote"
+        android:title="Add"
+        app:showAsAction="always"></item>
+</menu>
